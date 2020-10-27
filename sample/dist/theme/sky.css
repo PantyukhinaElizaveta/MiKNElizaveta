@@ -87,7 +87,7 @@
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.77em; }
+  font-size: 3.0em; }
 
 .reveal h2 {
   font-size: 2.11em; }
@@ -290,3 +290,33 @@
 @media print {
   .backgrounds {
     background-color: #f7fbfc; } }
+
+    #_function{
+      position: absolute;
+      top: 310px;
+      height: 100px;
+      width: 400px;
+      left: 353px;
+    }
+
+    #_a{
+      position: absolute;
+      top: 233px;
+      height: 50px;
+      width: 50px;
+      left: 221px;
+    }
+    
+    #_b{
+      position: absolute;
+      top: 321px;
+      height: 50px;
+      width: 50px;
+      left: 175px;
+    }
+
+    #evaluateIntegral .formula{
+      position: absolute;
+      top: 300px;
+      left: 300px;
+    }
